@@ -5,7 +5,7 @@
    1-.CTRL + ALT + L  TO REFORMAT CODE
    2-. aNDROID LAYAOUT ELEMENTS HAVE THE NAME OF VIEWS OR WIDGETS
    3-.Android layout elements that contain other views such a LinearLayout or ContraitLayout are called ViewGroups
-
+   4-. shift twice to search file
 -->
 
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
