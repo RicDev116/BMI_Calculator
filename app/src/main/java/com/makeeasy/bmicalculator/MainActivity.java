@@ -28,12 +28,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         findViews();
-
-        String alertText = "This is my variable text";
-        android.widget.Toast.makeText(this,alertText,Toast.LENGTH_SHORT).show();
-
-        textViewResult.setText("Updating text");
         setButtonOnClickListener();
+        //String alertText = "This is my variable text";
+        //android.widget.Toast.makeText(this,alertText,Toast.LENGTH_SHORT).show();
+
     }
 
     private void findViews(){
